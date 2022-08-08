@@ -16,7 +16,6 @@ packages:
   - luci-app-openclash
   - luci-app-ddns
   - ddns-scripts_aliyun
-  - luci-app-commands
   - luci-app-mwan3
   - luci-app-eqos
   - wireguard-tools
@@ -51,6 +50,23 @@ packages:
   - luci-app-wrtbwmon
   - luci-app-zerotier
   - iptables-mod-fullconenat
+  - luci-app-samba
+  - luci-app-samba4
+  - luci-app-shairplay
+  - luci-app-adblock
+  - luci-app-adbyby-plus
+  - luci-app-baidupcs-web
+  - luci-app-familycloud
+  - luci-app-filetransfer
+  - luci-app-fileassistant
+  - luci-app-go-aliyundrive-webdav
+  - luci-app-jd-dailybonus
+  - luci-app-kodexplorer
+  - luci-app-ssr-plus
+  - luci-app-ssrserver-python
+  - luci-app-turboacc
+  - luci-app-vssr
+
 
 
 diffconfig: |
